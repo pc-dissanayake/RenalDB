@@ -100,7 +100,7 @@ If you encounter any issues during installation, please refer to the Laravel doc
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
+
 
 ## Documentation
 
