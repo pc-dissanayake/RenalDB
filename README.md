@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Welcome to the RenalDB! This database application, designed to help you manage paediatric renal data. Whether you are a doctor, a specialist this app is the perfect solution for organizing and accessing data.
+Welcome to the RenalDB! This database application, designed to help you manage paediatric renal data.
+This application was created using Laravel and Livewire.
+Whether you are a doctor, a specialist this app is the perfect solution for organizing and accessing data.
 Collebarated with the Sri Lanka College of Paediatricians to create this app.
 
 ## Features
