@@ -123,4 +123,4 @@ I'm a medical officer facinated about data sciences and programming..
 
 Thank you for choosing RenalDB. I hope it helps you efficiently manage Renal data for paediatrics. If you have any feedback or suggestions, please don't hesitate to let me know.
 
-[Visit my website](https://www.prasanjith.com) for more information. 
+[for more information](https://www.prasanjith.com)
